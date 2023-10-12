@@ -15,3 +15,16 @@
   //! google signin 
 
 */
+
+/*Video- 04
+  //! Protected route
+
+
+  */
+
+/*Video- 05
+    //! use firebase email password authentication
+     //? react hookform
+     //? react-firebase-hook(https://github.com/CSFrequency/react-firebase-hooks/tree/master/auth#usesigninwithemailandpassword)
+     //? firebse authentication (email and password)
+  */
