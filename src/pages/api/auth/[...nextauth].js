@@ -14,6 +14,9 @@ export const authOptions = {
       clientSecret: process.env.GOOGLE_SECRET,
     }),
   ],
+
+  //? to show our designed login page after redirect
+  pages: { signIn: "/login" },
 };
 
 export default NextAuth(authOptions);
